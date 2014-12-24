@@ -1,0 +1,28 @@
+{
+  "name": "reading-estimate",
+  "version": "0.0.0",
+  "description": "A module to estimate reading time for text or html.",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maael/reading-estimate"
+  },
+  "keywords": [
+    "reading",
+    "time",
+    "estimate",
+    "reading",
+    "time",
+    "html",
+    "text"
+  ],
+  "author": "Matthew Elphick <matt.a.elphy@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maael/reading-estimate/issues"
+  },
+  "homepage": "https://github.com/maael/reading-estimate"
+}
